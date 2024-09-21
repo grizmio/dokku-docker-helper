@@ -1,0 +1,4 @@
+[plugin]
+description = "Run Docker commands through Dokku"
+version = "0.34.8"
+[plugin.config]
